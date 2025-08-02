@@ -32,7 +32,6 @@ Permitir operaciones CRUD sobre ventas y gastos, y exponer endpoints que devuelv
   /routes
   /utils
 
-         # Archivos JSON de carga inicial
 ```
 
 ---
@@ -156,5 +155,6 @@ GET /expenses/sales?period=week
 ```
 
 ---
+
 
 
